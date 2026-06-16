@@ -1,0 +1,8 @@
+{
+  "name": "Wishes Foundation32",
+  "description": "یک پلتفرم خیریه مدرن و احساسی برای برآورده کردن آرزوهای کودکان با بیماری‌های خاص، الهام گرفته از ساختار جهانی wish.org.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
